@@ -1,0 +1,11 @@
+<Page loaded="loaded">
+    <StackLayout orientation="vertical">
+    <Label class="cs-label" text="Welcome"/>
+        <TextField hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="Password" secure="true" />
+
+        <Button class="link" text="Sign in" />
+        <Button class="link" text="Sign Up" />
+
+    </StackLayout>
+</Page>

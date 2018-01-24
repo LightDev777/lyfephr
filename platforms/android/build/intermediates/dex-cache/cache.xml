@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\4383b494a67bf2d13f316edf0efcd83919b95871\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_f1ccb5990a4226c11ff93a99f182f7708d3a3d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\2d31b09cf2f16969ed6c1091f01ce810311baa85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c20ef2f3be6f5bc18676be6d68437c7950809fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\531abc2682706af48a75f125876fe3a430f7e69f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_35a0d0fb5a2992f3ff5f39f2f03a313e890a8524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\88d303b77a703cc7d5beded65afb41598da5ad3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_abe6b8212aef120e2820051353b2937ebaee3e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\3bb12ade872a71e8d55665a76564617d531e78ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c02ba2b031ebb1d91212a2e4ff81913caa1d6608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\246669069e72f0a80801e439b76ebf66d8232508\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_b4ef09116bcb5ac13c5d8f250341a06ab21aeb2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\d048696f58c7fae4915775ca40907fd3c2505d71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_eb0ef7d5f755702dd77897aa8cd18b28fb4e7c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\a0eea288cd6359d1b45df5fa0cd12d69ebdda452\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e90e9fbd988e8262f0a5e9edfaebccf39473f9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\79d93df68424fdc8ac25f6ccd9da5074acc35ca5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_7125733d7688287e6ffe4eb7ed0201ed39cca357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\2ebb282ecc585f6bfaa6396ae452d2a800df851d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_62a4a1eceb80a666417bcf07abbcd356869a5b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\ae8421c381b62a4f3ad72199665994979e6d0b94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_55bbd7c197efd5cb997e131ef26db88f3724bd67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_b02c723b63a9ec6dc364a399544bde41418c24e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\aff5af6ed3936f921b56c3e877303fcdfb702a7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_7638e9d7163868765c30043d681adc086eadad84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\45cd3d048741c4e1c7a834700f1949a84be41773\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_ce9d62cb07259499e248f383315418873a991cf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charmito\.android\build-cache\8236132588b015f0f8b7739b5bb5a59253e82428\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\Charmito\github\lyfephr\platforms\android\app\build\intermediates\pre-dexed\debug\classes_76eb0634455c5801cdaa3e10eb5be8ed1243a4d7.jar" />
+    </item>
+
+</items>

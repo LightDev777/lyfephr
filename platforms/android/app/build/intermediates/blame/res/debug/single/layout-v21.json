@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Charmito\\github\\lyfephr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Charmito\\.android\\build-cache\\531abc2682706af48a75f125876fe3a430f7e69f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charmito\\github\\lyfephr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Charmito\\.android\\build-cache\\531abc2682706af48a75f125876fe3a430f7e69f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charmito\\github\\lyfephr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Charmito\\.android\\build-cache\\531abc2682706af48a75f125876fe3a430f7e69f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charmito\\github\\lyfephr\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Charmito\\.android\\build-cache\\531abc2682706af48a75f125876fe3a430f7e69f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
